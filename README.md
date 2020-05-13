@@ -1,0 +1,2 @@
+# Learnings
+My basic knowledge
